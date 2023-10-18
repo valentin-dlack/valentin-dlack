@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valentin Dautrement</h1>
 <h3 align="center">A young web development student from France 🇫🇷</h3>
 
-- 🔭 I’m currently working on [B1PB0UP, my discord bot](https://github.com/valentin-dlack/bipboup-bot)
+- 🔭 I’m currently working on [Furmap](https://github.com/valentin-dlack/furmap-v1)
 
 - 🌱 I’m currently learning **Vue, Nest, Kubernetes and a lot of other things**
 
