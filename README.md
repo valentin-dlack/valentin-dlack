@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lack</h1>
 <h3 align="center">A young web development student from France 🇫🇷</h3>
 
-- 🔭 I’m currently working on [Film DB NextJS](https://github.com/valentin-dlack/film-db-next)
+- 🔭 I’m currently working on [R6dle](https://github.com/valentin-dlack/r6dle)
 
 - 🌱 I’m currently learning **Vue, Nest, Kubernetes and a lot of other things**
 
-- 👨‍💻 All of my projects are available at [https://lack-fr.com/](https://lack-fr.com/)
+- 👨‍💻 My main projects are available on my [website](https://vdautrement.fr/)
 
 - 💬 Ask me about **Symfony, Tailwind or Flask**
 
