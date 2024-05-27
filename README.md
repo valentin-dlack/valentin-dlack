@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Symfony, Tailwind or Flask**
 
-- 📫 How to reach me **contact@lack-fr.com**
+- 📫 How to reach me **contact@vdautrement.fr**
 
 - ⚡ Fun fact **Someone of my family is a black-smith !**
 
