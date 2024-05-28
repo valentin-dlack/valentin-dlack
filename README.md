@@ -15,9 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lackfur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lackfur" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/valentin-dautrement" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentin-dautrement" height="30" width="40" /></a>
-<a href="https://discord.gg/rA9E8ACZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rA9E8ACZ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
